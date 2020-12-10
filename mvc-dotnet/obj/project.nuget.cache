@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W0aB7eEBYRaG0i7NzbRuBETOkyGrrCl1KKYTpnpa+evTxvhiYRd2bWfpIDcK54K1IBeHpTyBstqz7DRK3xVqcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tathiane\\Documents\\GitHub\\mvc-dotnet\\mvc-dotnet\\mvc-dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tathiane\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
